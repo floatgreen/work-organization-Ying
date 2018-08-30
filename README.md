@@ -4,7 +4,7 @@ test in introduction to R
 
 
 
-dreat item lit:
+creat item lit:
 
 - fist item
 - second item
